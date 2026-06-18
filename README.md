@@ -1,4 +1,4 @@
-AI Resume Reviewer Using Amazon Bedrock
+                                                          AI Resume Reviewer Using Amazon Bedrock
 Overview
 The AI Resume Reviewer is a serverless AWS project that automatically analyzes uploaded resumes and generates AI-powered feedback. When a user uploads a resume to Amazon S3, an AWS Lambda function is triggered. The Lambda function reads the resume content, sends it to Amazon Bedrock for analysis, and generates a feedback report containing strengths, missing skills, improvement suggestions, and an overall score.
 ________________________________________
